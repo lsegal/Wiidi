@@ -1,0 +1,762 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeBuildStyle = 4A9504CCFFE6A4B311CA0CBA /* Debug */;
+		activeExecutable = B76A099D0B3C38E500C013AB /* Wiidi */;
+		activeTarget = 8D1107260486CEB800E47090 /* Wiidi */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Wiidi */,
+		);
+		breakpoints = (
+			B720247E0B4189C40036D182 /* WiiGestures.m:101 */,
+		);
+		breakpointsGroup = B725086C0B3CC0AF00555F92 /* XCBreakpointsBucket */;
+		codeSenseManager = B76A09A90B3C390500C013AB /* Code sense */;
+		executables = (
+			B76A099D0B3C38E500C013AB /* Wiidi */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					954,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					200,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					930,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					774,
+					20,
+					48.1626,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 188873527;
+			PBXWorkspaceStateSaveDate = 188873527;
+		};
+		perUserProjectItems = {
+			B72024C30B41DC730036D182 /* PBXTextBookmark */ = B72024C30B41DC730036D182 /* PBXTextBookmark */;
+			B72024D80B41DF540036D182 /* PBXTextBookmark */ = B72024D80B41DF540036D182 /* PBXTextBookmark */;
+			B72024E80B41DFD80036D182 /* PBXTextBookmark */ = B72024E80B41DFD80036D182 /* PBXTextBookmark */;
+			B72024FA0B41E0780036D182 /* PBXTextBookmark */ = B72024FA0B41E0780036D182 /* PBXTextBookmark */;
+			B72025010B41E12D0036D182 /* PBXTextBookmark */ = B72025010B41E12D0036D182 /* PBXTextBookmark */;
+			B7250A220B3D3FE200555F92 /* PBXTextBookmark */ = B7250A220B3D3FE200555F92 /* PBXTextBookmark */;
+			B7250A250B3D3FE200555F92 /* PBXTextBookmark */ = B7250A250B3D3FE200555F92 /* PBXTextBookmark */;
+			B7250AF20B3D592600555F92 /* PBXTextBookmark */ = B7250AF20B3D592600555F92 /* PBXTextBookmark */;
+			B7250AF30B3D592600555F92 /* PBXTextBookmark */ = B7250AF30B3D592600555F92 /* PBXTextBookmark */;
+			B7250C670B3DBF7600555F92 /* PBXTextBookmark */ = B7250C670B3DBF7600555F92 /* PBXTextBookmark */;
+			B7250C9D0B3DC76200555F92 /* PBXTextBookmark */ = B7250C9D0B3DC76200555F92 /* PBXTextBookmark */;
+			B7250DE00B3DEABA00555F92 /* PBXTextBookmark */ = B7250DE00B3DEABA00555F92 /* PBXTextBookmark */;
+			B7250E040B3DEDAA00555F92 /* PBXTextBookmark */ = B7250E040B3DEDAA00555F92 /* PBXTextBookmark */;
+			B7250F060B3E675100555F92 /* PBXTextBookmark */ = B7250F060B3E675100555F92 /* PBXTextBookmark */;
+			B7436D9F0B3C7E9B00F36279 /* PBXTextBookmark */ = B7436D9F0B3C7E9B00F36279 /* PBXTextBookmark */;
+			B7436DA00B3C7E9B00F36279 /* PBXTextBookmark */ = B7436DA00B3C7E9B00F36279 /* PBXTextBookmark */;
+			B7436DF60B3C88EF00F36279 /* PBXTextBookmark */ = B7436DF60B3C88EF00F36279 /* PBXTextBookmark */;
+			B7436DFA0B3C88EF00F36279 /* PBXTextBookmark */ = B7436DFA0B3C88EF00F36279 /* PBXTextBookmark */;
+			B7436DFC0B3C88EF00F36279 /* PBXTextBookmark */ = B7436DFC0B3C88EF00F36279 /* PBXTextBookmark */;
+			B7436DFE0B3C88EF00F36279 /* PBXTextBookmark */ = B7436DFE0B3C88EF00F36279 /* PBXTextBookmark */;
+			B7436E000B3C88EF00F36279 /* PBXTextBookmark */ = B7436E000B3C88EF00F36279 /* PBXTextBookmark */;
+			B7436E020B3C88EF00F36279 /* PBXTextBookmark */ = B7436E020B3C88EF00F36279 /* PBXTextBookmark */;
+			B7436E070B3C88EF00F36279 /* PBXTextBookmark */ = B7436E070B3C88EF00F36279 /* PBXTextBookmark */;
+			B7436E080B3C88EF00F36279 /* PBXTextBookmark */ = B7436E080B3C88EF00F36279 /* PBXTextBookmark */;
+			B7436E0A0B3C88EF00F36279 /* PBXTextBookmark */ = B7436E0A0B3C88EF00F36279 /* PBXTextBookmark */;
+			B7436E0C0B3C88EF00F36279 /* PBXTextBookmark */ = B7436E0C0B3C88EF00F36279 /* PBXTextBookmark */;
+			B7436E0E0B3C88EF00F36279 /* PBXTextBookmark */ = B7436E0E0B3C88EF00F36279 /* PBXTextBookmark */;
+			B7436E100B3C88EF00F36279 /* PBXTextBookmark */ = B7436E100B3C88EF00F36279 /* PBXTextBookmark */;
+			B7436E140B3C88EF00F36279 /* PBXTextBookmark */ = B7436E140B3C88EF00F36279 /* PBXTextBookmark */;
+			B7436E170B3C88EF00F36279 /* PBXTextBookmark */ = B7436E170B3C88EF00F36279 /* PBXTextBookmark */;
+			B7436E250B3C88EF00F36279 /* PBXTextBookmark */ = B7436E250B3C88EF00F36279 /* PBXTextBookmark */;
+			B753225C0B410850005F3DE8 /* PBXTextBookmark */ = B753225C0B410850005F3DE8 /* PBXTextBookmark */;
+			B753225D0B410850005F3DE8 /* PBXTextBookmark */ = B753225D0B410850005F3DE8 /* PBXTextBookmark */;
+			B75322690B410850005F3DE8 /* PBXTextBookmark */ = B75322690B410850005F3DE8 /* PBXTextBookmark */;
+			B753226C0B410850005F3DE8 /* PBXTextBookmark */ = B753226C0B410850005F3DE8 /* PBXTextBookmark */;
+			B773E3850B41FA1600F7B574 /* PBXTextBookmark */ = B773E3850B41FA1600F7B574 /* PBXTextBookmark */;
+			B7F76CE30B41FC5D002CF8BE /* PBXTextBookmark */ = B7F76CE30B41FC5D002CF8BE /* PBXTextBookmark */;
+		};
+		sourceControlManager = B76A09A80B3C390500C013AB /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1152, 700}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {1152, 700}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* Wiidi */ = {
+		activeExec = 0;
+		executables = (
+			B76A099D0B3C38E500C013AB /* Wiidi */,
+		);
+	};
+	B720247E0B4189C40036D182 /* WiiGestures.m:101 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = B75322340B40982C005F3DE8 /* WiiGestures.m */;
+		functionName = "-wiimoteData:lastData:";
+		hitCount = 1;
+		lineNumber = 101;
+		modificationTime = 188865663.934678;
+		state = 1;
+	};
+	B72024C30B41DC730036D182 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B75322330B40982C005F3DE8 /* WiiGestures.h */;
+		name = "WiiGestures.h: SIMILAR";
+		rLen = 0;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 343;
+		vrLoc = 0;
+	};
+	B72024D80B41DF540036D182 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436D980B3C6CDF00F36279 /* AppController.m */;
+		name = "AppController.m: 11";
+		rLen = 0;
+		rLoc = 144;
+		rType = 0;
+		vrLen = 968;
+		vrLoc = 0;
+	};
+	B72024E80B41DFD80036D182 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7250AC00B3D572600555F92 /* Miidi.m */;
+		name = "Miidi.m: 82";
+		rLen = 0;
+		rLoc = 2260;
+		rType = 0;
+		vrLen = 1412;
+		vrLoc = 429;
+	};
+	B72024FA0B41E0780036D182 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436DA80B3C7FAA00F36279 /* Wiimote.h */;
+		name = "Wiimote.h: initialized";
+		rLen = 0;
+		rLoc = 2676;
+		rType = 0;
+		vrLen = 1067;
+		vrLoc = 2289;
+	};
+	B72025010B41E12D0036D182 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436DA90B3C7FAA00F36279 /* Wiimote.m */;
+		name = "Wiimote.m: 309";
+		rLen = 0;
+		rLoc = 7754;
+		rType = 0;
+		vrLen = 1011;
+		vrLoc = 7473;
+	};
+	B725086C0B3CC0AF00555F92 /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "Project Breakpoints";
+		objects = (
+			B720247E0B4189C40036D182 /* WiiGestures.m:101 */,
+		);
+	};
+	B7250A220B3D3FE200555F92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 244;
+		vrLoc = 0;
+	};
+	B7250A250B3D3FE200555F92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 244;
+		vrLoc = 0;
+	};
+	B7250ABF0B3D572600555F92 /* Miidi.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1152, 700}}";
+			sepNavSelRange = "{930, 0}";
+			sepNavVisRect = "{{0, 0}, {1152, 700}}";
+		};
+	};
+	B7250AC00B3D572600555F92 /* Miidi.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1152, 2432}}";
+			sepNavSelRange = "{2260, 0}";
+			sepNavVisRect = "{{0, 372}, {1152, 700}}";
+		};
+	};
+	B7250AF20B3D592600555F92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7250ABF0B3D572600555F92 /* Miidi.h */;
+		name = "Miidi.h: 12";
+		rLen = 0;
+		rLoc = 593;
+		rType = 0;
+		vrLen = 226;
+		vrLoc = 0;
+	};
+	B7250AF30B3D592600555F92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7250AC00B3D572600555F92 /* Miidi.m */;
+		name = "Miidi.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 172;
+		vrLoc = 0;
+	};
+	B7250C670B3DBF7600555F92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436F750B3CAC6400F36279 /* AppController.mm */;
+		name = "AppController.mm: 105";
+		rLen = 0;
+		rLoc = 2997;
+		rType = 0;
+		vrLen = 1457;
+		vrLoc = 2334;
+	};
+	B7250C9D0B3DC76200555F92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436DF90B3C88EF00F36279 /* IOBluetoothL2CAPChannel.h */;
+		name = "IOBluetoothL2CAPChannel.h: 337";
+		rLen = 433;
+		rLoc = 16277;
+		rType = 0;
+		vrLen = 2155;
+		vrLoc = 14630;
+	};
+	B7250DE00B3DEABA00555F92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436E630B3C8E7C00F36279 /* WiiRemote.m */;
+		name = kIOReturnSuccess;
+		rLen = 16;
+		rLoc = 3681;
+		rType = 0;
+		vrLen = 1243;
+		vrLoc = 4035;
+	};
+	B7250E040B3DEDAA00555F92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436E630B3C8E7C00F36279 /* WiiRemote.m */;
+		name = "((short)dp[2] << 8) + dp[3]";
+		rLen = 27;
+		rLoc = 4116;
+		rType = 0;
+		vrLen = 1315;
+		vrLoc = 3792;
+	};
+	B7250F060B3E675100555F92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436F750B3CAC6400F36279 /* AppController.mm */;
+		name = "z < lastPosition[Z] && z > 0 && abs(lastPosition[Z] - z) > 0.03";
+		rLen = 64;
+		rLoc = 4166;
+		rType = 0;
+		vrLen = 1503;
+		vrLoc = 1908;
+	};
+	B7436D970B3C6CDF00F36279 /* AppController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1152, 700}}";
+			sepNavSelRange = "{300, 0}";
+			sepNavVisRect = "{{0, 0}, {1152, 700}}";
+		};
+	};
+	B7436D980B3C6CDF00F36279 /* AppController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1152, 704}}";
+			sepNavSelRange = "{144, 0}";
+			sepNavVisRect = "{{0, 0}, {1152, 700}}";
+			sepNavWindowFrame = "{{15, 45}, {1055, 833}}";
+		};
+	};
+	B7436D9F0B3C7E9B00F36279 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436D980B3C6CDF00F36279 /* AppController.m */;
+		name = "AppController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 63;
+		vrLoc = 0;
+	};
+	B7436DA00B3C7E9B00F36279 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436D970B3C6CDF00F36279 /* AppController.h */;
+		name = "AppController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 168;
+		vrLoc = 0;
+	};
+	B7436DA80B3C7FAA00F36279 /* Wiimote.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1152, 2768}}";
+			sepNavSelRange = "{2676, 0}";
+			sepNavVisRect = "{{0, 1856}, {1152, 700}}";
+		};
+	};
+	B7436DA90B3C7FAA00F36279 /* Wiimote.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1152, 9024}}";
+			sepNavSelRange = "{7754, 0}";
+			sepNavVisRect = "{{0, 4691}, {1152, 700}}";
+			sepNavWindowFrame = "{{15, 45}, {1055, 833}}";
+		};
+	};
+	B7436DF60B3C88EF00F36279 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436DF70B3C88EF00F36279 /* IOBluetoothSDPDataElement.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1797;
+		vrLoc = 10557;
+	};
+	B7436DF70B3C88EF00F36279 /* IOBluetoothSDPDataElement.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = IOBluetoothSDPDataElement.h;
+		path = /System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothSDPDataElement.h;
+		sourceTree = "<absolute>";
+	};
+	B7436DF90B3C88EF00F36279 /* IOBluetoothL2CAPChannel.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = IOBluetoothL2CAPChannel.h;
+		path = /System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothL2CAPChannel.h;
+		sourceTree = "<absolute>";
+	};
+	B7436DFA0B3C88EF00F36279 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436DFB0B3C88EF00F36279 /* IOBluetoothObject.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 497;
+		vrLoc = 0;
+	};
+	B7436DFB0B3C88EF00F36279 /* IOBluetoothObject.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = IOBluetoothObject.h;
+		path = /System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothObject.h;
+		sourceTree = "<absolute>";
+	};
+	B7436DFC0B3C88EF00F36279 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436DFD0B3C88EF00F36279 /* IOBluetoothUserNotification.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 721;
+		vrLoc = 0;
+	};
+	B7436DFD0B3C88EF00F36279 /* IOBluetoothUserNotification.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = IOBluetoothUserNotification.h;
+		path = /System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothUserNotification.h;
+		sourceTree = "<absolute>";
+	};
+	B7436DFE0B3C88EF00F36279 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436DFF0B3C88EF00F36279 /* IOBluetoothDevice.h */;
+		name = inquiry;
+		rLen = 7;
+		rLoc = 23749;
+		rType = 0;
+		vrLen = 1826;
+		vrLoc = 22888;
+	};
+	B7436DFF0B3C88EF00F36279 /* IOBluetoothDevice.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = IOBluetoothDevice.h;
+		path = /System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothDevice.h;
+		sourceTree = "<absolute>";
+	};
+	B7436E000B3C88EF00F36279 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436E010B3C88EF00F36279 /* BluetoothAssignedNumbers.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2249;
+		vrLoc = 17799;
+	};
+	B7436E010B3C88EF00F36279 /* BluetoothAssignedNumbers.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = BluetoothAssignedNumbers.h;
+		path = /System/Library/Frameworks/IOBluetooth.framework/Headers/BluetoothAssignedNumbers.h;
+		sourceTree = "<absolute>";
+	};
+	B7436E020B3C88EF00F36279 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436E030B3C88EF00F36279 /* IOBluetoothDeviceInquiry.h */;
+		name = "- (void)\tdeviceInquiryComplete:(IOBluetoothDeviceInquiry*)sender\terror:(IOReturn)error\taborted:(BOOL)aborted;";
+		rLen = 110;
+		rLoc = 13168;
+		rType = 0;
+		vrLen = 2500;
+		vrLoc = 10784;
+	};
+	B7436E030B3C88EF00F36279 /* IOBluetoothDeviceInquiry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = IOBluetoothDeviceInquiry.h;
+		path = /System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothDeviceInquiry.h;
+		sourceTree = "<absolute>";
+	};
+	B7436E070B3C88EF00F36279 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436DA80B3C7FAA00F36279 /* Wiimote.h */;
+		name = "Wiimote.h: 36";
+		rLen = 0;
+		rLoc = 2545;
+		rType = 0;
+		vrLen = 651;
+		vrLoc = 0;
+	};
+	B7436E080B3C88EF00F36279 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436E090B3C88EF00F36279 /* IOBluetoothSDPDataElement.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1797;
+		vrLoc = 10557;
+	};
+	B7436E090B3C88EF00F36279 /* IOBluetoothSDPDataElement.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = IOBluetoothSDPDataElement.h;
+		path = /System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothSDPDataElement.h;
+		sourceTree = "<absolute>";
+	};
+	B7436E0A0B3C88EF00F36279 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436E0B0B3C88EF00F36279 /* IOBluetoothL2CAPChannel.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2470;
+		vrLoc = 8522;
+	};
+	B7436E0B0B3C88EF00F36279 /* IOBluetoothL2CAPChannel.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = IOBluetoothL2CAPChannel.h;
+		path = /System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothL2CAPChannel.h;
+		sourceTree = "<absolute>";
+	};
+	B7436E0C0B3C88EF00F36279 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436E0D0B3C88EF00F36279 /* IOBluetoothObject.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 497;
+		vrLoc = 0;
+	};
+	B7436E0D0B3C88EF00F36279 /* IOBluetoothObject.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = IOBluetoothObject.h;
+		path = /System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothObject.h;
+		sourceTree = "<absolute>";
+	};
+	B7436E0E0B3C88EF00F36279 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436E0F0B3C88EF00F36279 /* IOBluetoothDevice.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2846;
+		vrLoc = 16149;
+	};
+	B7436E0F0B3C88EF00F36279 /* IOBluetoothDevice.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = IOBluetoothDevice.h;
+		path = /System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothDevice.h;
+		sourceTree = "<absolute>";
+	};
+	B7436E100B3C88EF00F36279 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436E110B3C88EF00F36279 /* IOBluetoothUserNotification.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 721;
+		vrLoc = 0;
+	};
+	B7436E110B3C88EF00F36279 /* IOBluetoothUserNotification.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = IOBluetoothUserNotification.h;
+		path = /System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothUserNotification.h;
+		sourceTree = "<absolute>";
+	};
+	B7436E140B3C88EF00F36279 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436E150B3C88EF00F36279 /* IOBluetoothDeviceInquiry.h */;
+		name = IOBluetoothDeviceInquiryDelegate;
+		rLen = 32;
+		rLoc = 10262;
+		rType = 0;
+		vrLen = 2548;
+		vrLoc = 9825;
+	};
+	B7436E150B3C88EF00F36279 /* IOBluetoothDeviceInquiry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = IOBluetoothDeviceInquiry.h;
+		path = /System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothDeviceInquiry.h;
+		sourceTree = "<absolute>";
+	};
+	B7436E170B3C88EF00F36279 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436E180B3C88EF00F36279 /* BluetoothAssignedNumbers.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2249;
+		vrLoc = 17799;
+	};
+	B7436E180B3C88EF00F36279 /* BluetoothAssignedNumbers.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = BluetoothAssignedNumbers.h;
+		path = /System/Library/Frameworks/IOBluetooth.framework/Headers/BluetoothAssignedNumbers.h;
+		sourceTree = "<absolute>";
+	};
+	B7436E250B3C88EF00F36279 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436DA90B3C7FAA00F36279 /* Wiimote.m */;
+		name = "Wiimote.m: 18";
+		rLen = 0;
+		rLoc = 722;
+		rType = 0;
+		vrLen = 506;
+		vrLoc = 0;
+	};
+	B7436E630B3C8E7C00F36279 /* WiiRemote.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = WiiRemote.m;
+		path = /Users/jinx/Download/DarwiinRemote/WiiRemote.m;
+		sourceTree = "<absolute>";
+	};
+	B7436F750B3CAC6400F36279 /* AppController.mm */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.objcpp;
+		name = AppController.mm;
+		path = /Users/jinx/Download/DarwiinRemote/AppController.mm;
+		sourceTree = "<absolute>";
+	};
+	B75322330B40982C005F3DE8 /* WiiGestures.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1152, 700}}";
+			sepNavSelRange = "{194, 0}";
+			sepNavVisRect = "{{0, 0}, {1152, 700}}";
+		};
+	};
+	B75322340B40982C005F3DE8 /* WiiGestures.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1152, 2320}}";
+			sepNavSelRange = "{820, 0}";
+			sepNavVisRect = "{{0, 344}, {1152, 480}}";
+		};
+	};
+	B753225C0B410850005F3DE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7250ABF0B3D572600555F92 /* Miidi.h */;
+		name = "Miidi.h: MIDINoteForNunchuckButton:";
+		rLen = 0;
+		rLoc = 930;
+		rType = 0;
+		vrLen = 1039;
+		vrLoc = 0;
+	};
+	B753225D0B410850005F3DE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7436D970B3C6CDF00F36279 /* AppController.h */;
+		name = "AppController.h: gestures";
+		rLen = 0;
+		rLoc = 300;
+		rType = 0;
+		vrLen = 308;
+		vrLoc = 0;
+	};
+	B75322690B410850005F3DE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B75322330B40982C005F3DE8 /* WiiGestures.h */;
+		name = "WiiGestures.h: 12";
+		rLen = 0;
+		rLoc = 281;
+		rType = 0;
+		vrLen = 238;
+		vrLoc = 0;
+	};
+	B753226C0B410850005F3DE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B75322340B40982C005F3DE8 /* WiiGestures.m */;
+		name = "WiiGestures.m: 12";
+		rLen = 0;
+		rLoc = 2397;
+		rType = 0;
+		vrLen = 190;
+		vrLoc = 0;
+	};
+	B76A099D0B3C38E500C013AB /* Wiidi */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Wiidi;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	B76A09A80B3C390500C013AB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 1;
+		scmConfiguration = {
+			SubversionToolPath = /usr/local/bin/svn;
+		};
+		scmType = scm.subversion;
+	};
+	B76A09A90B3C390500C013AB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B773E3850B41FA1600F7B574 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B75322340B40982C005F3DE8 /* WiiGestures.m */;
+		name = "WiiGestures.m: 51";
+		rLen = 0;
+		rLoc = 1414;
+		rType = 0;
+		vrLen = 1889;
+		vrLoc = 275;
+	};
+	B7F76CE30B41FC5D002CF8BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B75322340B40982C005F3DE8 /* WiiGestures.m */;
+		name = "WiiGestures.m: 37";
+		rLen = 0;
+		rLoc = 820;
+		rType = 0;
+		vrLen = 1242;
+		vrLoc = 272;
+	};
+}
